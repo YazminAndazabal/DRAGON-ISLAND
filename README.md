@@ -32,5 +32,8 @@ Paso 8: Dentro del módulo lwjgl3, localiza el archivo Lwjgl3Launcher.java. Haz 
 
 Paso 9: La aparición de una ventana gráfica mostrando el logo de LibGDX o la pantalla de inicio del juego confirma la correcta importación y ejecución del proyecto.
 
+## Enlace a la Wiki del Proyecto
+[Ver Wiki en GitHub](https://github.com/YazminAndazabal/DRAGON-ISLAND/wiki)
+
 ## Estado Actual del Proyecto
 Configuración Inicial del Proyecto y Repositorio
